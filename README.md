@@ -6,8 +6,6 @@ A modern AI-powered assistant built with Spring Boot and Spring AI, featuring a 
 
 ---
 
-<img width="1919" height="1079" alt="Screenshot 2026-01-23 202232" src="https://github.com/user-attachments/assets/f8b55cb8-4b7f-440c-91dd-bb3866c668cd" />
-
 ---
 
 ## 🚀 Features
